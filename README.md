@@ -16,6 +16,11 @@
 
 Interested in Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
 
+Books I liked :books:
+* Statistical Rethinking by Ricahrd McElreath
+* The Theory That Would Not Die by Sharon McGrayne
+* Bayesian Statistics the Fun Way by Will Kurt
+
 My hobby : :film_projector:  🍞
 
 - Email : duckling4579@gmail.com
