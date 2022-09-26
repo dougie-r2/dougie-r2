@@ -10,13 +10,12 @@
 * Turing.jl
 * Flux.jl
 * Pluto.jl
-* tensorflow (probability)
-* keras
+* Pytorch
 * Numpy/Pandas/seaborn/plotly
 
-Interested in Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
+Interested in Data Analysis:game_die: Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
 
-Books I liked :books:
+Academic Books I liked :books:
 * Statistical Rethinking by Ricahrd McElreath
 * The Theory That Would Not Die by Sharon McGrayne
 * Bayesian Statistics the Fun Way by Will Kurt
