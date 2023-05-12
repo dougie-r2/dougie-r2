@@ -11,7 +11,6 @@
 * Flux.jl
 * Pluto.jl
 * Pytorch
-* Numpy/Pandas/seaborn/plotly
 
 Interested in Data Analysis:game_die: Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
 
