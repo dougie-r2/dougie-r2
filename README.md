@@ -1,6 +1,6 @@
-### Hi, I'm delphinH 👋
+### Hi, I'm Dougie Hwang 👋
 
-
+  
 
 - I’m interested in problem solving with probabilistic programming.
 - Since I believe Julia will be the most powerful language, I am studying Julia language.
