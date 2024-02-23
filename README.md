@@ -15,6 +15,7 @@
 Interested in Data Analysis :game_die: Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
 
 Academic Books I liked :books:
+* Introduction of Linear Algebra by Gilbert Strang
 * Statistical Rethinking by Ricahrd McElreath
 * The Theory That Would Not Die by Sharon McGrayne
 * Bayesian Statistics the Fun Way by Will Kurt
