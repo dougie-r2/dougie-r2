@@ -12,7 +12,7 @@
 * Pluto.jl
 * Pytorch
 
-Interested in Data Analysis:game_die: Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
+Interested in Data Analysis :game_die: Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
 
 Academic Books I liked :books:
 * Statistical Rethinking by Ricahrd McElreath
