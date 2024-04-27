@@ -3,7 +3,7 @@
   
 
 - I’m interested in problem solving with probabilistic programming.
-- Since I believe Julia will be the most powerful language, I am studying Julia language.
+- Currently working on NLP.
 
 :computer: I love coding in  **R**, **Julia** and **Python**. Some library I use :
 * Tidyverse(dplyr, ggplot2, stringr, purrr)
@@ -11,6 +11,7 @@
 * Flux.jl
 * Pluto.jl
 * Pytorch
+* HuggingFace (Transformers, PEFT, Tokenizers etc.)
 
 Interested in Data Analysis :game_die: Fianance:chart:, Aquaecosystem:dolphin::tropical_fish: 
 
